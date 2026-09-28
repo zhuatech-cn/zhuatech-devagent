@@ -1,5 +1,7 @@
 # ZhuaTech DevAgent｜企业研发智能体协作平台
 
+[简体中文](README.md) | [English](README.en.md)
+
 > 从任务澄清到可验证改动：所有代码动作发生在受控边界，推送与合并仍由工程师决定。
 
 ![DevAgent 研发智能体协同驾驶舱](docs/images/devagent-engineering-dashboard.png)
